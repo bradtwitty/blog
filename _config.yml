@@ -1,6 +1,6 @@
-title: My Blog
-description: A blog hosted on GitHub Pages
-baseurl: "/blog" # subpath, e.g. /blog (leave empty if at root)
+title: twitty.dev(log)
+description: daily specials from the dev kitchen
+baseurl: "/blog"
 url: "" # will be set by GitHub Pages
 
 # Build settings
