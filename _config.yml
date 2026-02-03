@@ -1,6 +1,6 @@
 title: My Blog
 description: A blog hosted on GitHub Pages
-baseurl: "" # subpath, e.g. /blog (leave empty if at root)
+baseurl: "/blog" # subpath, e.g. /blog (leave empty if at root)
 url: "" # will be set by GitHub Pages
 
 # Build settings
